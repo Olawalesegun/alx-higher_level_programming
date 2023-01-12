@@ -1,1 +1,1 @@
-This is a redme file bout a repository that details Python Inheritance
+# Solution to tasks on Python - Inheritance
